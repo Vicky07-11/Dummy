@@ -17,4 +17,3 @@ function removeCurrentActives() {
     slide.classList.remove("active");
   });
 }
-}
