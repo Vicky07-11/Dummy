@@ -11,4 +11,10 @@ function removeCurrentActives() {
   slides.forEach((slide) => {
     slide.classList.remove("active");
   });
+
+function removeCurrentActives() {
+  slides.forEach((slide) => {
+    slide.classList.remove("active");
+  });
+}
 }
