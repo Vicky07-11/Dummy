@@ -11,7 +11,6 @@ function removeCurrentActives() {
   slides.forEach((slide) => {
     slide.classList.remove("active");
   });
-<<<<<<< HEAD
 
 function removeCurrentActives() {
   slides.forEach((slide) => {
